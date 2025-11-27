@@ -108,7 +108,7 @@ daily-habit-tracker/
 
 1. **Clone or Download the Project**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/soikot-shahriaar/daily-habit-tracker
    cd daily-habit-tracker
    ```
 
@@ -278,7 +278,7 @@ ini_set('display_errors', 1);
 
 **License for RiverTheme**
 
-[RiverTheme.com](https://RiverTheme.com) makes this project available for demo, instructional, and personal use. You can ask for or buy a license from [RiverTheme.com](https://RiverTheme.com) if you want a pro website, sophisticated features, or expert setup and assistance. A Pro license is needed for production deployments, customizations, and commercial use.
+RiverTheme makes this project available for demo, instructional, and personal use. You can ask for or buy a license from [RiverTheme.com](https://RiverTheme.com) if you want a pro website, sophisticated features, or expert setup and assistance. A Pro license is needed for production deployments, customizations, and commercial use.
 
 **Disclaimer**
 
@@ -291,10 +291,6 @@ The free version is offered "as is" with no warranty and might not function on a
 - **Code Comments**: Check inline documentation in source files
 - **Professional Support**: Contact RiverTheme for Pro assistance
 
-### Contact Information
-- **Website**: [RiverTheme.com](https://RiverTheme.com)
-- **Support**: Available with Pro license
----
 
 **Developed by RiverTheme for better habit building and personal development**
 
